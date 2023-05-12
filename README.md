@@ -1,5 +1,12 @@
 # Unity-Bug-Report-Playable-IN-36756
 
+**Unity has stated that they will not fix this bug.**
+
+> RESOLUTION NOTE:
+> After evaluating the impact, workaround and risk associated with fixing this issue, in addition to the current team's bandwidth and priorities, we have concluded that this issue will not be addressed in the foreseeable future.
+> 
+> We are closing this issue as Won’t Fix.
+
 ## About this issue
 
 The effect of changing the time on RootMotion isn't eliminated when calling SetTime method twice on an AnimationClipPlayable.
